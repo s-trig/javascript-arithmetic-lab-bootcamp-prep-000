@@ -10,6 +10,14 @@ function multiply(a, b) {
   return a * b
 }
 
+unction divide(a, b) {
+  return a / b
+}
+
 function inc(n) {
   return n++
+}
+
+function dec(n) {
+  n--
 }
